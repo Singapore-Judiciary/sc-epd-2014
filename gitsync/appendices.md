@@ -44,7 +44,7 @@ Form 8: \[Deleted]
 
 [Form 9G: Request for Fast Track ADCDR](https://github.com/opendocsg/opendoc-state-courts-practice-directions/raw/master/downloads/Appendix-A-Form-9G.pdf)
 
-[Form 9I: Recording Settlement / Entering Judgment by Consent (NIMA/PI/PIMA)](https://github.com/opendocsg/opendoc-state-courts-practice-directions/raw/master/downloads/Appendix-A-Form-9I-v3.pdf)
+[Form 9I: Recording Settlement / Entering Judgment by Consent (NIMA/PI/PIMA)](https://raw.githubusercontent.com/Singapore-Judiciary/sc-epd-2014/7e0c1b2c73d5967c23fac228c91926b20a173a24/downloads/Form%209I-v2.pdf)
 
 [Form 9J: Opening Statement for Plaintiff/Defendant (Mediation)](https://github.com/opendocsg/opendoc-state-courts-practice-directions/raw/master/downloads/Appendix-A-Form-9J-v3.pdf)
 
@@ -1282,7 +1282,7 @@ is less than $20,000 (excluding interest, if any), the Court will in general, aw
 
 > (a) **Conduct of forensic examination.** The Inspecting Party shall specify or describe the search terms or phrases to be used in the forensic examination to be conducted on the contents of a copy of the Original Acquired Image to the Joint Expert. The Joint Expert shall not at any time disclose to the Producing Party the search terms or phrases specified or described by the Inspecting Party and shall not include the search terms or phrases in his report. For the avoidance of doubt, the Joint Expert shall disclose the search terms or phrases to the Court if so directed by the Court. The Joint Expert shall make arrangements for the conduct of the forensic examination on a copy of the Original Acquired Image. Neither the Inspecting Party nor the Producing Party, or any of their solicitors, computer experts, employees, representatives or agents shall be present during the conduct of the forensic examination. A copy of the documents or records that are the results of the reasonable search (“the Search Results”) shall be made and released to the Producing Party. The Producing Party is not entitled to a copy, and shall not request the Joint Expert for a copy, of the search terms or phrases specified or described by the Inspecting Party.
 
-> (b) **Review for privileged material.**The Joint Expert and the Producing Party shall jointly review the Search Results for the purpose of permitting the Producing Party to identify electronically stored documents, deleted files or file fragments over which he claims privilege. If the Producing Party claims privilege over any electronically stored documents, deleted files or file fragments from the Search Results, he shall identify them to the Joint Expert. The Producing Party shall list the electronic documents, deleted files or file fragments over which privilege is claimed.
+> (b) **Review for privileged material.**&#x54;he Joint Expert and the Producing Party shall jointly review the Search Results for the purpose of permitting the Producing Party to identify electronically stored documents, deleted files or file fragments over which he claims privilege. If the Producing Party claims privilege over any electronically stored documents, deleted files or file fragments from the Search Results, he shall identify them to the Joint Expert. The Producing Party shall list the electronic documents, deleted files or file fragments over which privilege is claimed.
 
 > (c) **Release for inspection.**
 

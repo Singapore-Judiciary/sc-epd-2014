@@ -18,7 +18,7 @@
 
 ### 74. Draft orders of Court <a href="#id-74-draft-orders-of-court" id="id-74-draft-orders-of-court"></a>
 
-(1) **Draft orders for **_**inter partes**_** applications**
+(1) **Draft orders for&#x20;**_**inter partes**_**&#x20;applications**
 
 > (a) Order 42, Rules 8(1) and (2) of the Rules of Court (Cap. 322, R 5) places the burden of approving the drafts of inter partes judgments and orders on the solicitors themselves. The solicitors should therefore approve the drafts and not submit these drafts to the Registrar for approval.
 
