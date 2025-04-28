@@ -1,13 +1,13 @@
 # Part X: Documents and Authorities for use in Court
 
-> 69 Electronic filing of documents and authorities for use in cour&#x20;
+> 69 Electronic filing of documents and authorities for use in court&#x20;
 >
 > 70 Bundle of documents filed on setting down&#x20;
 >
 > * Documents filed electronically&#x20;
 > * Documents not filed electronically&#x20;
 >
-> 71 Documents for use in trials in open&#x20;
+> 71 Documents for use in trials in open court&#x20;
 >
 > * Court Documents which need not be filed electronically&#x20;
 > * Bundle of documents&#x20;
