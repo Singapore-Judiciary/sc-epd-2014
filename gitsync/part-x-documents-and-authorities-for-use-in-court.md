@@ -1,6 +1,6 @@
-# Part X: Documents and Authorities for use in Court
+# Part X: Documents and Authorities for use in court
 
-> 69 Electronic filing of documents and authorities for use in Court&#x20;
+> 69 Electronic filing of documents and authorities for use in court&#x20;
 >
 > 70 Bundle of documents filed on setting down&#x20;
 >

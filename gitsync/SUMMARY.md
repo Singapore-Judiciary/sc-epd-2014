@@ -11,7 +11,7 @@
 * [Part VII: Discovery and Inspection of Electronically Stored Documents](part-vii-discovery-and-inspection-of-electronically-stored-documents.md)
 * [Part VIII: Evidence – Witnesses, Affidavits and Exhibits](part-viii-evidence-witnesses-affidavits-and-exhibits.md)
 * [Part IX: Fixing of Matters for Hearing](part-ix-fixing-of-matters-for-hearing.md)
-* [Part X: Documents and Authorities for use in Court](part-x-documents-and-authorities-for-use-in-court.md)
+* [Part X: Documents and Authorities for use in court](part-x-documents-and-authorities-for-use-in-court.md)
 * [Part XI: Judgements and Orders](part-xi-judgements-and-orders.md)
 * [Part XII: Appeals](part-xii-appeals.md)
 * [Part XIII: Electronic Filing Service](part-xiii-electronic-filing-service.md)
