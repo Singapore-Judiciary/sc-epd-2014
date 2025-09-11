@@ -26,7 +26,33 @@
 
 (1) Subject to any Practice Directions in this Part to the contrary, in particular Practice Direction 71(3) (Documents for use in open Court), all bundles of documents, bundles of authorities, bundles of pleadings, bundles of affidavits, all other bundles, and all opening statements for proceedings which have been commenced using the Electronic Filing Service must be filed in Court using the Electronic Filing Service.
 
-(2) In the event that it is not possible to file the documents in advance of the hearing, counsel may apply to the Judge or Registrar conducting the hearing for leave to use paper documents during the hearing. The paper documents may be printed on one side or both sides of each paper. The solicitor must explain why it was not possible to file the documents in advance of the hearing, and must give an undertaking to file using the Electronic Filing Service all the documents used at the hearing by the next working day after the hearing. Any document not filed using the Electronic Filing Service will not be included in the Court’s case file.
+(2) In the event that it is not possible to file the documents in advance of the hearing, counsel may apply to the Judge or Registrar conducting the hearing for leave to use paper documents during the hearing. Parties are strongly encouraged to print hard copies on both sides of each page. The solicitor must explain why it was not possible to file the documents in advance of the hearing, and must also give an undertaking to file using the Electronic Filing Service all the documents used at the hearing by the next working day after the hearing. Any document not filed using the Electronic Filing Service will not be included in the Court's case file.
+
+**Formatting requirements for documents filed in or submitted to Court**
+
+(3) Pleadings, the text of affidavits (as opposed to the exhibits), opening statements and written submissions filed in or submitted to the Court shall comply with the following requirements:
+
+> (a) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number shall be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume shall start at page 1, and every page in that volume shall be numbered consecutively;
+>
+> (b) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size to be used shall be Times New Roman 12 or its equivalent;
+>
+> (c) the print of every page shall be double-spaced, except for:
+>
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts,
+>
+> which may be single-spaced;
+>
+> (d) every page shall have a margin on all 4 sides, each of at least 35mm in width; and
+>
+> (e) parties are strongly encouraged to print hard copies on both sides of each page.
+
+(4) Paragraph (3) does not apply to any documents for which specific directions on formatting are provided for in these Practice Directions.
 
 ### 70. Bundle of documents filed on setting down <a href="#id-70-bundle-of-documents-filed-on-setting-down" id="id-70-bundle-of-documents-filed-on-setting-down"></a>
 
@@ -60,7 +86,7 @@
 
 (7) For proceedings which were not commenced using the Electronic Filing Service, the setting down bundle should be firmly secured together with plastic ring binding or plastic spine thermal binding.  The rings or spines should be red for plaintiffs and blue for defendants, and should have a transparent plastic cover in front and at the back.
 
-(8) Every page of the setting down bundle should be paginated consecutively at the top right hand corner of each page from the first page until the last.  In the event that the bundle is in several volumes, the pagination should nonetheless run consecutively from the first page of the first volume until the last page of the last volume.
+(8) All pages of the setting down bundle (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated, the page number shall be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume shall start at page 1, and every page in that volume shall be numbered consecutively.
 
 ### 71. Documents for use in trials in open Court <a href="#id-71-documents-for-use-in-trials-in-open-court" id="id-71-documents-for-use-in-trials-in-open-court"></a>
 
@@ -80,13 +106,13 @@
 
 (3) The provisions of Practice Directions 69 (Electronic filing of documents and authorities for use in court) and 70(2) to (6) (Bundles of documents filed on setting down) do not apply to (i) the bundle of affidavits of evidence-in-chief if the individual affidavits have already been e-filed; and (ii) the bundles of documents that are filed in Court pursuant to the provisions of Order 34, Rule 3A(1)_(b)_ of the Rules of the Court. Such documents may be tendered to the Registry in hardcopy together with an electronic copy stored on a CD-ROM in Portable Document Format (PDF) and complying with the provisions of this Practice Direction.
 
-(4) The electronic copy must tally in all respects with the hardcopy, as it will be uploaded into the case file by the Registry staff and will form part of the electronic case file. The importance of not submitting unnecessarily large electronic files is emphasised. To this end, parties are to adhere as far as possible to the guidelines set out on the Electronic Filing Service website (currently at www.elitigation.sg), or its equivalent as may be set up from time to time, on the resolution to be used when scanning documents into Portable Document Format (PDF).
+(4) The electronic copy must tally in all respects with the hard copy, as it will be uploaded into the case file by the Registry staff and will form part of the electronic case file. All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated, the page number shall be inserted at the top right hand corner of the page, and, where are multiple volumes, each separate volume shall start at page 1, and every page in that volume shall be numbered consecutively. The importance of not submitting unnecessarily large electronic files is emphasised. To this end, parties are to adhere as far as possible to the guidelines set out on the Electronic Filing Service website (currently at [www.elitigation.sg](https://www.elitigation.sg/)), or its equivalent as may be set up from time to time, on the resolution to be used when scanning documents into Portable Document Format (PDF).
 
 (5) In the event that parties elect to electronically file such documents, they must nevertheless tender a bundle of these documents to the Registry in hard copy. It shall not be necessary to pay any additional court fees in respect of the hard copy in such circumstances.
 
 **Bundle of documents**
 
-(6) The bundle of documents required to be filed by Order 34, Rule 3A of the Rules of Court should be paginated consecutively throughout at the top right hand corner and may be printed on one side or both sides of each page.
+(6) The bundle of documents required to be filed by Order 34, Rule 3A of the Rules of Court shall be paginated in the manner provided for in paragraph (4) and parties are strongly encouraged to print hard copies on both sides of each page.
 
 > (a) An index of contents of each bundle in the manner and form set out in Form 13 in Appendix A to these Practice Directions must also be furnished.  No bundle of documents is necessary in cases where parties are not relying on any document at the trial.
 
@@ -108,19 +134,21 @@
 
 > (e) Only documents which are relevant or necessary for the trial shall be included in the bundles.  In cases where the Court is of the opinion that costs have been wasted by the inclusion of unnecessary documents, the Court will have no hesitation in making a special order for costs against the relevant person.
 
-> (f) A core bundle should (unless clearly unnecessary) also be provided containing the most important documents upon which the case will turn or to which repeated reference will have to be made. The documents in this bundle should normally be paginated but should also be cross-referenced to copies of the documents included in the main bundles.  The bundle supplied to the Court should be contained in a loose-leaf file which can easily have further documents added to it if required.
+> (f) A core bundle should (unless clearly unnecessary) also be provided containing the most important documents upon which the case will turn or to which repeated reference will have to be made. The documents in this bundle should normally be paginated in the manner provided for in paragraph (4) but should also be cross-referenced to copies of the documents included in the main bundles.  The bundle supplied to the Court should be contained in a loose-leaf file which can easily have further documents added to it if required.
 
 **Bundle of authorities**
 
-(7) Hard copies of the bundle of authorities to be prepared by each party should:
+(7) Hard copies of the bundle of authorities to be prepared by each party shall:
 
 > (a) contain all the authorities, cases, statutes, subsidiary legislation and any other materials relied on;
 
 > (b) be properly bound with plastic ring binding or plastic spine thermal binding in accordance with the requirements set out in paragraph (6)(c) above;
 
-> (c) be paginated consecutively at the top right hand corner of each page (for which purpose the pagination should commence on the first page of the first bundle and run sequentially to the last page of the last bundle); and
+> (c) be paginated in the manner provided for in paragraph (4); and
 
 > (d) contain an index of the authorities in that bundle and be appropriately flagged for easy reference.
+
+(7A) Parties are strongly encouraged to print hard copies on both sides of each page.
 
 (8) Only authorities which are relevant or necessary for the trial shall be included in the bundles.  No bundle of authorities is necessary in cases where parties are not relying on any authority at the trial.  In cases where the Court is of the opinion that costs have been wasted by the inclusion of unnecessary authorities, the Court will have no hesitation in making a special order for costs against the relevant person.
 
@@ -162,7 +190,7 @@ _**Timeline for tendering documents**_
 
 ### 72. Hearing in Chambers <a href="#id-72-hearing-in-chambers" id="id-72-hearing-in-chambers"></a>
 
-In all hearings in chambers before a Judge or Registrar, counsel shall submit their bundles of documents and their own bundle of authorities.  Order 34, Rule 3A, of the Rules of Court (Cap. 322, R 5) and the requirements of Practice Direction 71(8) to (11) (Documents for use in trials in open Court) shall, with the necessary modifications, be complied with in this regard, save that the bundles may be submitted at the hearing itself before the Judge or Registrar, as the case may be.
+In all hearings in chambers before a Judge or Registrar, counsel shall submit their bundles of documents and their own bundle of authorities.  Order 34, Rule 3A, of the Rules of Court (Cap. 322, R 5) and the requirements of Practice Direction 71(6) to (9) (Documents for use in trials in open Court) shall, with the necessary modifications, be complied with in this regard, save that the bundles may be submitted at the hearing itself before the Judge or Registrar, as the case may be.
 
 ### 73. Citation of written judgments and secondary authorities <a href="#id-73-citation-of-written-judgments-and-secondary-authorities" id="id-73-citation-of-written-judgments-and-secondary-authorities"></a>
 

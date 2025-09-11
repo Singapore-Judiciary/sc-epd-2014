@@ -27,7 +27,7 @@
 >
 > 32\. Applications for discovery or interrogatories against network service providers&#x20;
 >
-> 33\. Absence of parties
+> 33. \[Deleted]
 
 ### 23. Distribution of applications <a href="#id-23-distribution-of-applications" id="id-23-distribution-of-applications"></a>
 
@@ -237,6 +237,4 @@ the applicant or his solicitor must inform the Registry of the order for consoli
 
 (5) In paragraph (1)(b), the words “electronic recording”, “network service provider”, “performance” and “primary network” have the same meanings as in section 246(1) of the Copyright Act (Cap 63).
 
-### 33. Absence of parties <a href="#id-33-absence-of-parties" id="id-33-absence-of-parties"></a>
-
-Where an application has been struck off by reason of any party being absent, the Registrar may direct that the matter be restored by way of summons.
+### 33. \[Deleted] <a href="#id-33-absence-of-parties" id="id-33-absence-of-parties"></a>

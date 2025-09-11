@@ -87,7 +87,17 @@
 
 > (a) When filing affidavits for use during a hearing of an interlocutory application, the summons number of the interlocutory application must be provided in the Electronic Filing Service in addition to the case number of the suit or matter.
 
-> (b) Affidavits shall have a blank margin of not less than 35mm wide on all 4 sides of the page. They shall be printed or typed and must be double-spaced.
+> (b) Affidavits shall have a margin on all 4 sides each of at least 35mm in width. The text of affidavits (as opposed to the exhibits) shall be printed or typed, and the print of every page of the text of affidavits (as opposed to the exhibits) shall be double-spaced, except for:
+>
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts,
+>
+> which may be single-spaced.
 
 > (c) The textual portion of the affidavits, as opposed to the exhibits, must be white.
 
@@ -101,7 +111,9 @@
 > >
 > > (iv) the date the affidavit is filed.
 
-> (e) Every page of the affidavit (_including_ separators and exhibits) shall be paginated consecutively, and the page number shall be placed at the top right hand corner of the page.
+> (e) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number shall be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume shall start at page 1, and every page in that volume shall be numbered consecutively.
+
+> (f) Except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size to be used shall be Times New Roman 12 or its equivalent.
 
 **Affidavits that are not filed electronically**
 
@@ -109,13 +121,27 @@
 
 > (a) **Form of affidavits generally**
 >
-> > (i) Affidavits shall be on A4-ISO paper of durable quality with a blank margin not less than 35 mm wide on all 4 sides of the page.
+> > (i) Affidavits shall be on A4-ISO paper of durable quality with a margin on all 4 sides each of at least 35mm in width.
 > >
 > > (ii) The paper used shall be white.
 > >
 > > (iii) Affidavits shall be produced by printing, lithography or typewriting, and in any case not by carbon copying. A document produced by a photographic or similar process giving a positive and permanent representation free from blemishes will be treated, to the extent that it contains a facsimile of matter produced by one of the above processes, as if it were so produced. Photographic copies which are not clearly legible will be rejected.
 > >
-> > (iv) Affidavits shall be printed or typed, double-spaced, on one side or both sides of the paper.
+> > (iv) The text of affidavits (as opposed to the exhibits) shall be printed or typed, and the print of every page of the text of affidavits (as opposed to the exhibits) shall be double-spaced, except for:
+> >
+> > > (A) cover pages and tables of contents;
+> > >
+> > > (B) paragraph and section headings or sub-headings;
+> > >
+> > > (C) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> > >
+> > > (D) extracts of transcripts,
+> >
+> > which may be single-spaced.
+> >
+> > (v) Parties are strongly encouraged to print hard copies on both sides of each page.
+> >
+> > (vi) Except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size to be used shall be Times New Roman 12 or its equivalent.
 
 > (b) **Markings on affidavits**\
 > At the top right hand corner of the first page of every affidavit, and also on the backing sheet, there shall be typed, printed or written clearly and in a single line:
@@ -136,7 +162,7 @@
 
 > (d) **Pagination of affidavits**
 >
-> Every page of the affidavit shall be paginated consecutively, and the page number shall be placed at the top right hand corner of the page.
+> All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated, the page number shall be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume shall start at page 1, and every page in that volume shall be numbered consecutively.
 
 ### 54. Exhibits to affidavits <a href="#id-54-exhibits-to-affidavits" id="id-54-exhibits-to-affidavits"></a>
 
@@ -156,7 +182,7 @@
 
 > (a) Every page of every exhibit must be fully and clearly legible. Where necessary, magnified copies of the relevant pages should be interleaved in appropriate places.
 
-> (b) Every page of the exhibits, _including cover pages, dividing sheets or separators between exhibits_, shall be consecutively numbered at the top right hand corner of each page, taking as its first number the number that follows the number of the last sheet of the affidavit’s main text.
+> (b) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number shall be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume shall start at page 1, and every page in that volume shall be numbered consecutively.
 
 > (c) Each exhibit in the affidavit must be separately book-marked in the Portable Document Format (PDF) document that is filed. For this purpose —
 >
@@ -199,7 +225,7 @@
 
 > (d) **Pagination**
 >
-> Every page of the exhibits, _including cover pages, dividing sheets or separators between exhibits_, shall be consecutively numbered at the top right hand corner of each page, taking as its first number the number that follows the number of the last sheet of the affidavit’s main text.
+> All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated, the page number shall be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume shall start at page 1, and every page in that volume shall be numbered consecutively.
 
 > (e) **Numbering**
 >
@@ -211,7 +237,7 @@
 
 > (g) **Related documents**
 >
-> Related documents (e.g., correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in accordance with sub-paragraph (d) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit.
+> Related documents (e.g., correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in the manner provided for in sub-paragraph (d) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit.
 
 > (h) **References to exhibits in text of affidavit**
 >

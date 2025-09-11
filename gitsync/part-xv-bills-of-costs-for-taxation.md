@@ -24,15 +24,15 @@ Every bill of costs to be taxed pursuant to a judgment or order of court must be
 
 ### 103. Form of bills of costs <a href="#id-103-form-of-bills-of-costs" id="id-103-form-of-bills-of-costs"></a>
 
-The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 59 of the Rules of Court (Cap. 322, R 5).  In addition, solicitors are to abide by the following requirements in relation to the form of bills of costs.
+The attention of solicitors is drawn to Rules 24 and 31 and Appendix 1 of Order 59 of the Rules of Court (Cap. 322, R 5).  In addition, solicitors shall abide by the following requirements in relation to the form of bills of costs.
 
 (1) **Margins**
 
-A blank margin of not less than 10 mm wide must be provided on all four sides for each page of the bill of costs.
+Every page must have a margin on all 4 sides, each of at least 10mm in width.
 
 (2) **Pagination**
 
-Every page of a bill of costs must be paginated consecutively at the centre of the top of the page.  The attention of solicitors is drawn to Practice Direction 86 (Pagination of documents) in regard to pagination of documents filed using the electronic filing service.
+All pages (including where applicable, the cover page, table of contents, separator sheets and exhibit sheets) shall be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number shall be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume shall start at page 1, and every page in that volume shall be numbered consecutively. The attention of solicitors is drawn to Practice Direction 86 (Pagination of documents) in regard to pagination of documents filed using the electronic filing service.
 
 (3) **Format**
 
