@@ -48,11 +48,11 @@ In exercise of the powers conferred by Order 63A, Rules 2 and 3 of the Rules of 
 
 > (a) establishes an Electronic Filing Service known as the Integrated Electronic Litigation System or eLitigation and accessible at www.elitigation.sg; and
 >
-> (b) appoints CrimsonLogic Pte Ltd as the Electronic Filing Service provider for this service.
+> (b) appoints an Electronic Filing Service provider for this service whose contact details are available at [https://www.judiciary.gov.sg/services/elitigation](https://www.judiciary.gov.sg/services/elitigation).
 
 ### 82. Appointment of agent to establish service bureau <a href="#id-82-appointment-of-agent-to-establish-service-bureau" id="id-82-appointment-of-agent-to-establish-service-bureau"></a>
 
-Pursuant to Order 63A, Rule 4 of the Rules of Court (Cap. 322, R 5), the Registrar hereby appoints CrimsonLogic Pte Ltd as an agent to establish a service bureau or service bureaux at such address(es) in Singapore as may be deemed suitable.
+Pursuant to Order 63A, Rule 4 of the Rules of Court (Cap. 322, R 5), the Registrar hereby appoints an agent to establish a service bureau or service bureaux at such address(es) in Singapore as may be deemed suitable, whose contact details are available at [https://www.judiciary.gov.sg/services/elitigation](https://www.judiciary.gov.sg/services/elitigation).
 
 ### 83. Documents which must be filed, served, delivered etc., using the Electronic Filing Service <a href="#id-83-documents-which-must-be-filed-served-delivered-etc-using-the-electronic-filing-service" id="id-83-documents-which-must-be-filed-served-delivered-etc-using-the-electronic-filing-service"></a>
 
