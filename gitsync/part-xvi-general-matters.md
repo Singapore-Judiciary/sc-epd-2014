@@ -114,33 +114,37 @@ The various courts, offices and counters within the State Courts have different 
 >
 > (c) any counsel;
 >
-> is required to attend Court (including any hearing conducted by way of live video or live television link) and wishes to absent himself from Court on medical grounds, he must tender or cause to be tendered to the Court an original medical certificate. Where a medical certificate cannot be tendered in person, it may be tendered by any electronic means which the Court may permit.
+> is required to attend Court (including any hearing conducted by way of live video or live television link, and whether in open court or in chambers) and wishes to absent himself or herself from Court on medical grounds, he or she must tender or cause to be tendered to the Court an original medical certificate. The medical certificate may be tendered in person or by any electronic means which the Court may permit.
 
 (2) Any medical certificate tendered to the Court under paragraph (1) must:
 
-> (a) state the name of the medical practitioner who issued the certificate;
+> (a) state the name and Medical Council or Dental Council Registration Number of the medical practitioner or dental practitioner who issued the certificate;
 >
-> (b) state the name of the hospital or clinic at which it was issued;
+> (b) state the name of the hospital or clinic at which the certificate was issued;
 >
-> (c) state the contact details of the medical practitioner and also of the hospital or clinic;
+> (c) state the contact details of the medical practitioner or dental practitioner and also of the hospital or clinic;
 >
-> (d) be signed by the medical practitioner;
+> (d) be signed by the medical practitioner or dental practitioner or, if the medical certificate is electronically generated, state that no signature is required;
 >
-> (e) contain a diagnosis of the patient concerned accompanied by a brief description of the symptom(s) and condition(s) forming the basis for the statement in sub-paragraph (2)(f) below (unless the diagnosis cannot or should not normally be disclosed);
+> (e) contain a statement to the effect that the person in respect of whom the certificate is issued is medically unfit to attend Court, and specify the date(s) on which the person is medically unfit to attend Court;
 >
-> (f) contain a statement to the effect that the person to whom the certificate is issued is medically unfit to attend Court, and specify the date(s) on which the person is medically unfit to attend Court;
+> (f) contain a diagnosis of the patient concerned accompanied by a brief description of the symptom(s) and condition(s) forming the basis for the statement in sub-paragraph (2)(e) above (unless the diagnosis cannot or should not normally be disclosed); and
 >
-> (g) bear the date on which it was written and, where this differs from the date of consultation, this must be clearly disclosed; and
->
-> (h) be the original document issued by the medical practitioner, if it was issued by the medical practitioner in hard copy.
+> (g) bear the date on which the certificate was issued and, where this date differs from the date of consultation, clearly disclose the difference.
 
-(3) If any information specified in paragraph (2) is not stated in the medical certificate itself, such information must be included in a memorandum attached to the medical certificate.
+(3) If any information specified in paragraph (2) is not stated in the medical certificate itself, such information must be included in a memorandum attached to the medical certificate. This memorandum must:
+
+> (a) state the name and Medical Council or Dental Council Registration Number of the medical practitioner or dental practitioner who issued the certificate;&#x20;
+>
+> (b) state the name of the hospital or clinic at which it was issued; and&#x20;
+>
+> (c) be signed by the medical practitioner or dental practitioner or, if the memorandum is electronically generated, state that no signature is required.&#x20;
 
 (4) All information and details in any medical certificate or memorandum must be clearly and legibly printed.
 
-(5) If any requirement set out in paragraphs (2) to (4) is not complied with, the Court may reject the medical certificate and decline to excuse the attendance of the person to whom the medical certificate was issued. The Court may then take any action it deems appropriate.
+(5) If any requirement set out in paragraphs (2) to (4) is not complied with, the Court may reject the medical certificate and decline to excuse the attendance of the person in respect of whom the medical certificate was issued. The Court may then take any action it deems appropriate.
 
-(6) The Court may, if it deems fit, take steps to contact the medical practitioner who appears to have issued a medical certificate for the purpose of authenticating the medical certificate and, where necessary, the party tendering the medical certificate must provide such assistance to the Court as may be necessary to facilitate such authentication.
+(6) The Court may, if it deems fit, take steps to contact the medical practitioner or dental practitioner who appears to have issued a medical certificate for the purpose of authenticating the medical certificate and, where necessary, the person in respect of whom the medical certificate is issued must provide such assistance to the Court as may be necessary to facilitate such authentication.
 
 ### 115. Precedence and preaudience of Senior Counsel <a href="#id-115-precedence-and-preaudience-of-senior-counsel" id="id-115-precedence-and-preaudience-of-senior-counsel"></a>
 
